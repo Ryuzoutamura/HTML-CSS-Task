@@ -81,7 +81,7 @@ footer {
   main {
     width: 100%;
     display: block;
-    margin: 30px auto;
+    margin: 50px auto;
   }
 
   .main-item {
@@ -100,18 +100,18 @@ footer {
   .main-item-image1 {
     width: 95%;
     height: 150px;
-    margin: 10px;
+    margin: 10 auto;
   }
 
   .main-item-image2 {
     width: 95%;
     height: 150px;
-    margin: 10px;
+    margin: 10 auto;
   }
 
   .main-item-image3 {
     width: 95%;
     height: 150px;
-    margin: 10px;
+    margin: 10 auto;
   }
 }
